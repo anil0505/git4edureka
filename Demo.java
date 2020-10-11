@@ -4,5 +4,6 @@ public class Demo
   {
     System.out.println("Commit from remote branch"); 
     System.out.println("Second commit from remote branch");
+    System.out.println("Git fetch");
   }
 }
